@@ -1,0 +1,20 @@
+body {
+  background-color: #32502e;
+  color: #f3efcc;
+  font-family: "Roboto", monospace;
+  font-weight: 400;
+}
+img {
+  width: 25%;
+  border-radius: 50%;
+}
+
+li.tree {
+  margin: 0;
+  padding: 20px 0 20px 50px;
+  list-style: none;
+  background-image: url("pine-tree.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 30px;
+}
